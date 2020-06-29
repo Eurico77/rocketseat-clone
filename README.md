@@ -2,7 +2,7 @@
 
 
 <h1 align=center>
-<img src="./assets/screen.png" width= 500px height=300px>
+<img src="./assets/screen.png" width= 800px height=500px>
 </h1>
 
 ## 📜 Sobre
